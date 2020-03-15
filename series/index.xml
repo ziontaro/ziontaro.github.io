@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Pure theme for Hugo</title>
-    <link>https://github.com/ziontaro/ziontaro.github.io/series/</link>
-    <description>Recent content in Series on Pure theme for Hugo</description>
+    <title>Series on ziontaro homepage</title>
+    <link>https://ziontaro.github.io/series/</link>
+    <description>Recent content in Series on ziontaro homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     
-        <atom:link href="https://github.com/ziontaro/ziontaro.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ziontaro.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
